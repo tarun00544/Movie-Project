@@ -1,9 +1,9 @@
- /* ============================================================
+/* ============================================================
    api.js
    CineVault API Service
 ============================================================ */
 
-export const BASE_URL = "http://localhost:8080";
+export const BASE_URL = "https://movie-project-backend-z25q.onrender.com";
 
 /* ---------------- TOKEN ---------------- */
 
