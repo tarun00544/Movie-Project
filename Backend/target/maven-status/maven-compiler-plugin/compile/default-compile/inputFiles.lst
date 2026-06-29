@@ -1,0 +1,16 @@
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\config\CorsConfig.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\controller\AuthController.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\controller\MovieController.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\model\LoginRequest.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\model\LoginResponse.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\model\Movie.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\model\User.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\MovieRecommendationApplication.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\repository\MovieRepository.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\repository\UserRepository.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\security\JwtAuthenticationEntryPoint.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\security\JwtFilter.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\security\JwtUtil.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\security\SecurityConfig.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\service\MovieService.java
+C:\LENOVO\OneDrive\Documents\Attachments\Desktop\Movie Proejct\Backend\src\main\java\com\Tarun\service\UserService.java
