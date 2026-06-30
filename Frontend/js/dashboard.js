@@ -46,9 +46,9 @@ function normalizeList(res) {
 function renderStats(movies) {
   const total = movies.length;
   const topRated = movies.reduce((best, m) => ((m.rating || 0) > (best?.rating || 0) ? m : best), null);
-  const trendingCount = movies.filter((m) => Number(m.rating) >= 7).length;
+  const trendingCount = movies.filter((m) => Number(m.rating) >= 4.8).length;
   const currentYear = new Date().getFullYear();
-  const latestCount = movies.filter((m) => Number(m.releaseYear) >= currentYear - 1).length;
+  const latestCount = movies.filter((m) => Number(m.releaseYear) >= currentYear - 5).length;
 
   setText("statTotalMovies", total);
   setText("statTopRated", topRated ? `${Number(topRated.rating).toFixed(1)} ★` : "—");
